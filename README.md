@@ -20,7 +20,6 @@
 |--------|-------------|------------|
 | 🔐 [Password Strength Checker](https://github.com/dmuf/password-checker) | Checks password complexity and has GUI with "show password". | Python, Tkinter |
 | 🌐 [Port Scanner](https://github.com/dmuf/port-scanner) | Scans open ports on a target IP and color-codes them. | Python, socket |
-
 | 🧠 [Malware Hash Scanner](https://github.com/dmuf/malware-hash-scanner) | Checks hashes against malware databases | Python, Virustotal Api |
 
 ---
@@ -36,7 +35,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-📫 Contact Me
+## 📫 Contact Me
 📧 Email: dresmith07@icloud.com
 
 🌐 LinkedIn: Dresean Smith
@@ -48,6 +47,3 @@
 ## 📸 Screenshots
 
 
-```markdown
-### Port Scanner
-<img src="screenshots/portscanner-demo.png" width="600px">

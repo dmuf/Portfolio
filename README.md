@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arianna 👋</h1>
+<h1 align="center">Hi, I'm Dresean 👋</h1>
 <p align="center">
   🐍 Python Dev | 🔐 Cybersecurity Enthusiast | 🎓 Student at Santa Rosa Junior College
 </p>

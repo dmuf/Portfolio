@@ -47,8 +47,7 @@
 | Certificates| Description | From |
 |--------|-------------|------------|
 |  CCNA:Introduction to Networks |The CCNA: Introduction to Networks certificate provides foundational knowledge of networking concepts, including IP addressing, Ethernet, and basic configuration of routers and switches. |Cisco Netacad |
-|  Python Essentials 1 | ChatGPT said:
-The Python Essentials 1 certificate introduces the basics of Python programming, covering data types, control structures, functions, and simple coding tasks. It's designed for beginners with no prior coding experience.|Cisco Netacad |
+|  Python Essentials 1 | The Python Essentials 1 certificate introduces the basics of Python programming, covering data types, control structures, functions, and simple coding tasks. It's designed for beginners with no prior coding experience.|Cisco Netacad |
 | Google CyberSecurity Professional |The Google Cybersecurity Professional Certificate teaches the fundamentals of cybersecurity, including threat detection, network security, risk management, and tools like SIEMs. It’s designed for beginners aiming to start a career in cybersecurity. | Coursera |
 
 

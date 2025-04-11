@@ -18,9 +18,9 @@
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🔐 [Password Strength Checker](https://github.com/dmuf/Password-Strength-Checker/tree/main) | Checks password complexity and has GUI with "show password". | Python, Tkinter |
-| 🌐 [Port Scanner](https://github.com/dmuf/port-scanner) | Scans open ports on a target IP and color-codes them. | Python, socket |
-| 🧠 [Malware Hash Scanner](https://github.com/dmuf/malware-hash-scanner) | Checks hashes against malware databases | Python, Virustotal Api |
+| 🔐 [Password Strength Checker](https://github.com/dmuf/Password-Strength-Checker) | Checks password complexity and has GUI with "show password". | Python, Tkinter |
+| 🌐 [Port Scanner](https://github.com/dmuf/Port-Scanner) | Scans open ports on a target IP and color-codes them. | Python, socket |
+| 🧠 [KeyLogger](https://github.com/dmuf/KeyLogger) | Checks hashes against malware databases | Python, Virustotal Api |
 
 ---
 

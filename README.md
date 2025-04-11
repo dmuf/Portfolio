@@ -43,7 +43,7 @@
 
 ---
 
-## 🏆Cerificates
+## 🏆Certificates
 | Certificates| Description | From |
 |--------|-------------|------------|
 |  CCNA:Introduction to Networks |The CCNA: Introduction to Networks certificate provides foundational knowledge of networking concepts, including IP addressing, Ethernet, and basic configuration of routers and switches. |Cisco Netacad |
